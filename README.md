@@ -1,8 +1,6 @@
 <h1 align="center">Hi I'm Kacper</h1>
 <h3 align="center">2nd year Computer Science student at AGH UST</h3>
 
-- 🌱 I’m currently learning **C++, databases, C#, React, Operating Systems**
-
 - 📫 How to reach me **kacperklusek70@gmail.com**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperklusek&layout=compact&hide=Jupyter%20Notebook&langs_count=8&line=54bd9a&point=fff&hide_border=trueb&card_width=325)](https://github.com/kacperklusek/github-readme-stats)
