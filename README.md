@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **kacperklusek70@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperklusek&layout=compact&hide=Jupyter%20Notebook&langs_count=8&line=54bd9a&point=fff&hide_border=trueb&card_width=325)](https://github.com/kacperklusek/github-readme-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kacper-k%c5%82usek-2695921b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kacper-k%c5%82usek-2695921b8/" height="30" width="40" /></a>
