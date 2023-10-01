@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Kacper</h1>
-<h3 align="center">3rd year Computer Science student at AGH UST</h3>
+<h3 align="center">4th year Computer Science student at AGH UST</h3>
 
 - 📫 How to reach me **kacperklusek70@gmail.com**
 
